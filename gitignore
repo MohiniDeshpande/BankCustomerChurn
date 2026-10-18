@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+results/*.joblib
+*.joblib
+bank.csv
+bank-full.csv
+.ipynb_checkpoints/
+.venv/
